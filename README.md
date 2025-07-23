@@ -1,10 +1,12 @@
 # 🔐👨‍💻 Gaspar Francisco Gulungo
 
-**`Desenvolvedor Full Stack | Especialista em Cybersecurity | Ethical Hacker`**
+**`Desenvolvedor Full Stack | Especialista em Cibersegurança | Hacker Ético`**
 
-Sou um desenvolvedor Full Stack com sólida atuação em cibers
+Sou um desenvolvedor Full Stack com sólida atuação em cibersegurança, combinando expertise técnica avançada com mentalidade de segurança ofensiva. 
 
-Domino tecnologias modernas de desenvolvimento e aplico meus conhecimentos em segurança para construir aplicações resilientes, seguras e escaláveis. Minha abordagem une construção e quebra: desenvolvo aplicações robustas enquanto estudo e exploro falhas nelas.
+Domino tecnologias modernas de desenvolvimento e aplico meus conhecimentos profundos em segurança para construir aplicações resilientes, seguras e escaláveis. **Minha abordagem única une construção e quebra**: desenvolvo aplicações robustas enquanto simultaneamente estudo e exploro vulnerabilidades, garantindo que cada linha de código seja tanto funcional quanto fortificada contra ameaças.
+
+💡 **Filosofia:** *"Pensar como um atacante para construir como um defensor"* - Esta dualidade me permite antecipar falhas de segurança durante o desenvolvimento, criando soluções que são naturalmente resilientes a ataques.
 
 <p align="left">
     <a href="https://github.com/GasparGulungo?tab=repositories&sort=stargazers">
@@ -23,15 +25,15 @@ Domino tecnologias modernas de desenvolvimento e aplico meus conhecimentos em se
     </a>
     <a href="https://hackthebox.com/profile/GasparGulungo">
         <img 
-            alt="HTB Profile" 
-            title="Hack The Box Profile" 
+            alt="Perfil HTB" 
+            title="Perfil Hack The Box" 
             src="https://img.shields.io/badge/🎯_HTB-HACKER-orange?style=for-the-badge&logo=hackthebox&logoColor=white"
         />
     </a>
     <a href="https://tryhackme.com/profile/GasparGulungo">
         <img 
-            alt="THM Profile" 
-            title="TryHackMe Profile" 
+            alt="Perfil THM" 
+            title="Perfil TryHackMe" 
             src="https://img.shields.io/badge/🔥_THM-TOP_5%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"
         />
     </a>
@@ -181,10 +183,10 @@ Domino tecnologias modernas de desenvolvimento e aplico meus conhecimentos em se
 
 ---
 
-## 📊 GitHub Analytics
 
 
 
+## 🎯 **PERFIL DE EXPERTISE TÉCNICA**
 <div align="center">
 
 
@@ -231,16 +233,6 @@ graph LR
 
 <div align="center">
 
-<p>
-  <img 
-    align="left" 
-    alt="Trophies" 
-    height="150" 
-    style="padding-right: 15px;" 
-    src="https://github-profile-trophy.vercel.app/?username=GasparGulungo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" 
-  />
-</p>
-
 <br clear="left"/>
 
 ```mermaid
@@ -283,19 +275,31 @@ graph TB
 
 <div align="center">
 
-### 🏗️ **SECURE DEVELOPMENT**
-- **🔒 Secure Coding** Practices
-- **🔑 JWT & OAuth2** Implementation  
-- **🛡️ OWASP Top 10** Prevention
-- **⚡ API Security** Design
-- **🔧 DevSecOps** Integration
+### 🏗️ **DESENVOLVIMENTO SEGURO**
 
-### 💥 **OFFENSIVE SECURITY**  
-- **🎯 Web Application** Pentesting
-- **📡 Network** Penetration Testing
-- **📱 WiFi Security** Auditing
-- **🕵️ Social Engineering** (Ethical)
-- **🤖 Automation** & Scripting
+- **🔒 Secure Code Architecture** - Construção de aplicações com segurança por design
+- **🔑 Autenticação Avançada** - JWT, OAuth2, Multi-factor Authentication  
+- **🛡️ OWASP Top 10 Mitigation** - Implementação ativa de contramedidas
+- **⚡ API Security Design** - REST/GraphQL com validação e rate limiting
+- **🔧 DevSecOps Integration** - CI/CD com testes de segurança automatizados
+- **🧪 Security Testing** - SAST, DAST, e testes de penetração em desenvolvimento
+
+### 💥 **SEGURANÇA OFENSIVA & ANÁLISE**  
+
+- **🎯 Web Application Pentesting** - Metodologia OWASP Testing Guide
+- **📡 Network Penetration Testing** - Infrastructure e serviços em rede
+- **📱 Mobile Security Assessment** - Android/iOS security analysis
+- **🕵️ Social Engineering** - Awareness e testes éticos controlados
+- **🤖 Exploit Development** - Scripts personalizados e PoCs
+- **🔍 Vulnerability Research** - Identificação e análise de falhas zero-day
+
+### ⚙️ **METODOLOGIA HÍBRIDA: "BUILD & BREAK"**
+
+- **🔄 Dual Perspective Development** - Codificação com mentalidade de atacante
+- **�️ Threat Modeling** - Análise de ameaças durante o design
+- **🔧 Automated Security Testing** - Integração de testes ofensivos no pipeline
+- **📋 Security Code Review** - Revisões focadas em vulnerabilidades
+- **🚨 Incident Response** - Preparação e resposta a incidentes de segurança
 
 </div>
 
@@ -305,12 +309,13 @@ graph TB
 
 <div align="center">
 
-### 💼 **OPEN FOR OPPORTUNITIES:**
-**🔐 Security Audits** • **💻 Secure Development** • **🎯 Red Team Operations** • **⚙️ DevSecOps Consulting**
+### 💼 **ABERTO PARA OPORTUNIDADES:**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaspar@exemplo.com)
+**🔐 Security-First Development** • **🎯 Red Team Operations** • **⚙️ DevSecOps Consulting** • **🔍 Vulnerability Assessment** • **🛡️ Application Security Architecture**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gasparfranciscogulungo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaspar-gulungo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GasparGulungo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gasparfranciscogulungo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaspargulungo)
 
 </div>
@@ -319,11 +324,11 @@ graph TB
 
 <div align="center">
 
-> **"Building secure applications while thinking like an attacker"**
+> **"Construindo aplicações seguras enquanto penso como um atacante - onde desenvolvimento encontra cibersegurança"**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GasparGulungo.profile&color=green)
 ![Profile Views](https://komarev.com/ghpvc/?username=GasparGulungo&color=red&style=flat-square)
 
-**🔐 Stay Secure, Code Safe! 💻**
+**🔐 Mantenha-se Seguro, Programe com Cuidado! 💻**
 
 </div>
